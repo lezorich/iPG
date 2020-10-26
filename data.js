@@ -15,7 +15,7 @@ var q = [
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
-	
+
 	'So what are you working on?',
 	'Do you have a demo?',
 	'Where is the rocket science here?',
@@ -76,9 +76,43 @@ var q = [
 	'What is the next step with the product evolution?',
 	'Have you raised funding?',
 	'Who would be your next hire?',
-	
+
 	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?'
+	'What do you know about this space/product others don&#39;t know?',
+
+  'How would the bank transfer product work?',
+  'In what countries is Plaid right now?',
+  'Give a use case of your API with a real customer',
+  'Are you doing web scrapers or directly integrated with banks',
+  'The banks that are in Chile are in other countries too?',
+  'How many banks are in Chile?',
+  'How many banks are in Mexico?',
+  'How many banks are in Brazil?',
+  'How many banks are in Latin America?',
+  'What\'s wrong with existing options?',
+  'Are there any other banking APIs in LATAM? how are you different?',
+  'How you’ll overcome the barriers that allow existing options to stay bad?',
+  'Why is the community of devs around FIntoc important?',
+  'Why will you win in Mexico?',
+  'What if Plaid comes to Latin America?',
+  'What if the bank adds 2FA?',
+  'Who are your paying customers?',
+  'Do you want to expand right now?',
+  'How can you grow till march?',
+  'Why didn\'t your customers integrate before?',
+  'When you plan to open a new market?',
+  'Why you don\'t want to open a new market now?',
+  'Why mexico?',
+  'Why brasil?',
+  'Who\'s your team?',
+  'What are the developers doing right now?',
+  'What do you mean by borderless solutions?',
+  'How this become a $1B business?',
+  'How do you get to $100M ARR?',
+  'What is your revenue',
+  'Number of connected bank accounts',
+  'Your churn?',
+  'How many users are paying?'
 ];
 
 // Tips
